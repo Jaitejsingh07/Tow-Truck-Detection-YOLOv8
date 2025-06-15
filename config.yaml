@@ -1,0 +1,7 @@
+train: /LAB/images/train #realtive path to Data directory
+val: /LAB/images/val   #realtive path to Data directory
+
+# Classes
+names:
+  0: Tow_Truck
+  1: Tow_Truck_with_vehicle
